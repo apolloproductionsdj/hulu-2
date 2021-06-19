@@ -9,7 +9,7 @@ function Nav() {
                         key={key}
                         className="cursor-pointer transition duration-100 
                     transform hover:scale-125"
-                    >
+                    >df
                         {title}
                     </h2>
                 ))}
